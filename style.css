@@ -1,0 +1,61 @@
+/*GET INVOLVED*/
+
+.getinvolved {
+    padding: 50px 0 80px;
+    text-align: center;
+    background-color: #5cb85c;
+    margin-top: 50px
+}
+
+.getinvolved h2 {
+    color: #fff;
+}
+
+.getinvolved opitions {
+    padding: 30px border: 1px solid #ccc;
+    backgroud-color: #fff;
+    border-radius: 5px;
+    margin-top: 30px;
+}
+
+.getinvolved i {
+    width: 50px;
+    height: 50px font-size: 40px;
+}
+
+/*CONTACT*/
+
+.contact {
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+.contact .message {
+    height: 100px;
+    marginb-bottom: 5px;
+}
+
+/"FOOTER*/
+ .footer {
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+.footer i {
+    font-size: 20px;
+}
+
+/*DONATE*/
+
+.donate {
+    background-color: #fff;
+    margin-top: 20px;
+}
+
+.donate button {
+    padding: 10px;
+    width: 100px;
+    margin: 5px;
+}
+
+https: //cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.css (need to add it to head element)
